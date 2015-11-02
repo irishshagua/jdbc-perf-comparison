@@ -1,0 +1,9 @@
+# Eclipse Shite
+.classpath
+.factorypath
+.project
+.settings/
+target/
+
+# speedment shite
+settings.properties
